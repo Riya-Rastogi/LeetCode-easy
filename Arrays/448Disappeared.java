@@ -1,4 +1,4 @@
-class Solution {
+class solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         boolean[] exists = new boolean[nums.length];
         for (int i = 0; i < nums.length; i++) {
